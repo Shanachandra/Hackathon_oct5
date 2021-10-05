@@ -93,7 +93,7 @@ async function test()
 }
 catch(error)
 {
-    alert('Enter Episode number correctly')
+    alert('Sorry!!! wrong episode number entered')
     window.location.href = `index.html`;
 }
 }
